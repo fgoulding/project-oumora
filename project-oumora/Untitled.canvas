@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"78e0af7e7339cafa","type":"file","file":"Umora/Wyandotte/Dragonmaw Cove/Places of Interest/Derelict.md","x":-180,"y":-115,"width":400,"height":400},
+		{"id":"f6a008cb52c00c9c","type":"file","file":"Umora/Wyandotte/Dragonmaw Cove/Religon/General Feel.md","x":710,"y":-115,"width":400,"height":400},
+		{"id":"45af746641fb0332","type":"file","file":"Umora/Wyandotte/Dragonmaw Cove/Places of Interest/Places of Interest.md","x":1155,"y":-115,"width":400,"height":400},
+		{"id":"292d11a196d01081","type":"file","file":"Umora/Wyandotte/Dragonmaw Cove/Restaurants/The Babbling Brook.md","x":2490,"y":-115,"width":400,"height":400},
+		{"id":"8fc2a8c9b94765b9","type":"file","file":"Umora/Wyandotte/Dragonmaw Cove/Restaurants/The Drunken Manta.md","x":2935,"y":-115,"width":400,"height":400},
+		{"id":"ac5c4a769278f76d","type":"file","file":"Umora/Tsu'tsina/Cities/Port Talon/Restaurants/The Laughing Dragon.md","x":3380,"y":-115,"width":400,"height":400},
+		{"id":"40a64f94c7dd9767","type":"file","file":"Umora/Umora.md","x":3825,"y":-115,"width":400,"height":400},
+		{"id":"ac33adf81c53a4fa","type":"file","file":"Umora/Wyandotte/Dragonmaw Cove/Dragonmaw Cove.md","x":955,"y":-1360,"width":400,"height":400},
+		{"id":"725ea684c8e2c38f","type":"file","file":"Umora/Wyandotte/Dragonmaw Cove/Religon/Religon.md","x":755,"y":-720,"width":400,"height":400},
+		{"id":"658465edcda27729","type":"file","file":"Umora/Wyandotte/Dragonmaw Cove/Restaurants/Restaurants.md","x":1555,"y":-680,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"9d4ef9fc7656685e","fromNode":"ac33adf81c53a4fa","fromSide":"bottom","toNode":"725ea684c8e2c38f","toSide":"top"},
+		{"id":"78d4fbb8abc55788","fromNode":"ac33adf81c53a4fa","fromSide":"bottom","toNode":"658465edcda27729","toSide":"top","color":"2"}
+	]
+}
