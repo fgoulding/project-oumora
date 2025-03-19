@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umora/Factions/Kainai Empire/Geopolitical Structure.md",
+                "file": "Sessions/Session .5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -210,7 +210,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Geopolitical Structure"
+              "title": "Session .5"
             }
           }
         ],
@@ -361,6 +361,10 @@
   },
   "active": "4ba2c462604065d4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Sessions/Session .5.md",
+    "Umora/Factions/Kainai Empire/Geopolitical Structure.md",
+    "Sessions",
     "Umora/Factions/Dominion of Metis/Geopolitical Structure.md",
     "Characters/PCs/Domino.md",
     "Characters/PCs/Bryn Meliamne.md",
@@ -376,17 +380,14 @@
     "Characters/NPCs/Splintered Waters/Splintered Waters.md",
     "Characters/PCs/Winona Willow.md",
     "Characters/PCs/Orin Spoonspire.md",
-    "Untitled.md",
     "Pantheon/Minor Spirits/Yoenghon Jjigae.md",
     "Pantheon/Minor Spirits/Mel Melis.md",
     "Pantheon/Minor Spirits/Ursalon.md",
     "Umora/Factions/Protectorate of Iska/Protectorate of Iska.md",
-    "Umora/Factions/Kainai Empire/Geopolitical Structure.md",
     "Umora/Factions/Factions.md",
     "Umora/Factions/Dominion of Metis/Dominion of Metis.md",
     "Umora/Factions/Kainai Empire/Places/Corrino Desert/Corrino Desert.md",
     "Umora/Factions/Kainai Empire/Places/Corrino Desert/The Citadel/The Citadel.md",
-    "Umora/Factions/Kainai Empire/Places/Corrino Desert/The Citadel/Traveling Door.md",
     "z_assets/Screenshot 2025-01-08 at 1.55.18 PM.png",
     "Pirate Ship Notes/Untitled",
     "Characters/PCs",
@@ -399,7 +400,6 @@
     "Umora/Factions/Dominion of Metis/Places",
     "Umora/Factions/Kainai Empire/Places/Sarcee/Untitled",
     "Umora/Factions/Kainai Empire/Places/Sarcee",
-    "Umora/Factions/Kainai Empire/Places",
-    "Untitled 2"
+    "Umora/Factions/Kainai Empire/Places"
   ]
 }
