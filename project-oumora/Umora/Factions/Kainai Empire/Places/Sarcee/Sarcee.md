@@ -1,0 +1,1 @@
+The region that holds the capital. Southern most region of the Empire

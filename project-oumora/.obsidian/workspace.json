@@ -140,9 +140,81 @@
               "icon": "lucide-file",
               "title": "Umora"
             }
+          },
+          {
+            "id": "8b45d1588e2e3284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umora/Factions/Kainai Empire/Places/Corrino Desert/The Citadel/The Citadel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Citadel"
+            }
+          },
+          {
+            "id": "4b92ca55dfa95b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umora/Factions/Kainai Empire/Places/Tsu'tsina/Cities/Chinook/Chinook.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chinook"
+            }
+          },
+          {
+            "id": "4ba2c462604065d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umora/Factions/Kainai Empire/Geopolitical Structure.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Geopolitical Structure"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -287,47 +359,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7655be04e9da2b8",
+  "active": "4ba2c462604065d4",
   "lastOpenFiles": [
-    "Umora/Factions/Kainai Empire/Kainai Empire.md",
-    "Untitled 1.md",
+    "Umora/Factions/Dominion of Metis/Geopolitical Structure.md",
+    "Characters/PCs/Domino.md",
+    "Characters/PCs/Bryn Meliamne.md",
+    "Characters/PCs/Fariel Fernwhisper.md",
+    "Characters/PCs/Alistair Blackwood.md",
+    "Characters/NPCs/Splintered Waters/Darron Arkwright (Bosson).md",
+    "Characters/NPCs/Splintered Waters/Lilian Crinklefoot (Quartermaster).md",
+    "Characters/NPCs/Splintered Waters/Ramona Saltmarsh (Captain).md",
+    "Characters/NPCs/Splintered Waters/Yenna Fleetfoot (powder monkey).md",
+    "Characters/NPCs/Splintered Waters/Sklonda Beanbottom (Sailing master).md",
+    "Characters/NPCs/Splintered Waters/Allonzo Beni (Gunner).md",
+    "Characters/PCs/Yesrie Elderstar.md",
+    "Characters/NPCs/Splintered Waters/Splintered Waters.md",
+    "Characters/PCs/Winona Willow.md",
+    "Characters/PCs/Orin Spoonspire.md",
+    "Untitled.md",
+    "Pantheon/Minor Spirits/Yoenghon Jjigae.md",
+    "Pantheon/Minor Spirits/Mel Melis.md",
+    "Pantheon/Minor Spirits/Ursalon.md",
+    "Umora/Factions/Protectorate of Iska/Protectorate of Iska.md",
+    "Umora/Factions/Kainai Empire/Geopolitical Structure.md",
+    "Umora/Factions/Factions.md",
+    "Umora/Factions/Dominion of Metis/Dominion of Metis.md",
+    "Umora/Factions/Kainai Empire/Places/Corrino Desert/Corrino Desert.md",
+    "Umora/Factions/Kainai Empire/Places/Corrino Desert/The Citadel/The Citadel.md",
+    "Umora/Factions/Kainai Empire/Places/Corrino Desert/The Citadel/Traveling Door.md",
+    "z_assets/Screenshot 2025-01-08 at 1.55.18 PM.png",
+    "Pirate Ship Notes/Untitled",
+    "Characters/PCs",
+    "Session Notes",
+    "Untitled.canvas",
+    "z_assets/boat_layout.png",
+    "z_assets/ramona_saltmarsh.jpg",
     "Umora/Factions/Kainai Empire/Places/Taysha",
     "Umora/Factions/Kainai Empire/Places/Corrino Desert",
-    "Umora/Factions/Dominion of Metis/Dominion of Metis.md",
     "Umora/Factions/Dominion of Metis/Places",
-    "Untitled.md",
-    "Umora/Factions/Kainai Empire/Places/Sarcee/Anishinaabe.md",
-    "Umora/Factions/Kainai Empire/Geopolitical Structure.md",
-    "Umora/Factions/Kainai Empire/Places/Corrino Desert/The Citadel/Untitled.md",
-    "Umora/Umora.md",
-    "Umora/Tsu'tsina/Cities/Port Talon/Port Talon.md",
-    "Untitled.canvas",
-    "Untitled 3.md",
-    "Pantheon/Minor Spirits/Yoenghon Jjigae.md",
-    "Pantheon/Minor Spirits/Ursalon.md",
-    "Pantheon/Minor Spirits/Mel Melis.md",
-    "Pirate Ship Notes/Sea-fever by John Masefield.md",
-    "Pirate Ship Notes/Boat.md",
-    "Characters/Yesrie Elderstar.md",
-    "Characters/Winona Willow.md",
-    "Characters/Orin Spoonspire.md",
-    "Characters/Fariel Fernwhisper.md",
-    "Characters/Bryn Meliamne.md",
-    "Characters/Alistair Blackwood.md",
-    "Introductions/Untitled.md",
-    "Untitled 2.md",
-    "Pantheon/Major Spirits/The Great Bear.md",
-    "Pantheon/Major Spirits/Parasylphis.md",
-    "Pantheon/Major Spirits/Naram.md",
     "Umora/Factions/Kainai Empire/Places/Sarcee/Untitled",
     "Umora/Factions/Kainai Empire/Places/Sarcee",
     "Umora/Factions/Kainai Empire/Places",
-    "Untitled 2",
-    "Pasted image 20250204181234.png",
-    "Umora/Tsu'tsina/Cities/Port Talon/Restaurants",
-    "Untitled 1",
-    "Untitled",
-    "002qbff0.jpg",
-    "z_assets/Screenshot 2025-01-08 at 1.55.18 PM.png"
+    "Untitled 2"
   ]
 }

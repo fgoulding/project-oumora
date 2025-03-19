@@ -1,6 +1,6 @@
 [[Sailing master]]
 
-Skonda is a halfling who 
+Skonda is a halfling
 
 monacle.
 

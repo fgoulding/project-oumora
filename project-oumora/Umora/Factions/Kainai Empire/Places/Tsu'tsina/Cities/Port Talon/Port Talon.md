@@ -5,10 +5,10 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Finnegans]]
+- [[Finnegans Fine Goods and Antiquities]]
 - [[Geography]]
 - **Restaurants**
 	- [[The Laughing Dragon]]
-- [[Umora/Tsu'tsina/Cities/Port Talon/Untitled]]
+- [[Untitled]]
 
 %% End Waypoint %%

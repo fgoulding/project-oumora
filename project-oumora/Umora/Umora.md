@@ -4,21 +4,30 @@ Cities
 %% Begin Waypoint %%
 - **[[Factions]]**
 	- **[[Dominion of Metis]]**
+		- [[Geopolitical Structure]]
+		- **Places**
+			- [[The Dark mountains]]
 	- **[[Kainai Empire]]**
-		- **The Citadel**
-			- [[Geopolitical Structure]]
+		- [[Geopolitical Structure]]
+		- **Places**
+			- **[[Corrino Desert]]**
+				- **[[The Citadel]]**
+					- [[Traveling Door]]
+			- **[[Sarcee]]**
+				- [[Anishinaabe]]
+			- **Taysha**
+			- **[[Tsu'tsina]]**
+				- **[[Cities]]**
+					- **[[Chinook]]**
+					- **[[Port Talon]]**
+					- **[[Toema]]**
+			- **[[Wyandotte]]**
+				- **[[Dragonmaw Cove]]**
 	- **[[Protectorate of Iska]]**
+		- **Peoria**
+			- **[[Saltmarsh]]**
 - **[[North Pole]]**
-- **Peoria**
-	- **[[Saltmarsh]]**
 - **[[South Pole]]**
-- **[[Tsu'tsina]]**
-	- **[[Cities]]**
-		- **[[Chinook]]**
-		- **[[Port Talon]]**
-		- **[[Toema]]**
-- **[[Wyandotte]]**
-	- **[[Dragonmaw Cove]]**
 
 %% End Waypoint %%
 

@@ -1,7 +1,7 @@
 [[Captain]] 
 ## Description
 
-![[002qbff0.jpg| 300]]
+![[ramona_saltmarsh.jpg| 300]]
 
 Ramona Saltmarsh is a working woman. Brown wavy hair with streaks of grey match the crows feet that form from deep brown eyes. Thick angular eyebrows and brown skin.
 ### Outfit

@@ -1,1 +1,1 @@
-![[Pasted image 20250204181234.png]]
+![[boat_layout.png]]
