@@ -15,10 +15,10 @@ Cities
 					- [[Traveling Door]]
 			- **[[Sarcee]]**
 				- [[Anishinaabe]]
-			- **Taysha**
 			- **[[Tsu'tsina]]**
 				- **[[Cities]]**
 					- **[[Chinook]]**
+						- [[Geography]]
 					- **[[Port Talon]]**
 					- **[[Toema]]**
 			- **[[Wyandotte]]**

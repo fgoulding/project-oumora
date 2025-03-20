@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PCs/Fariel Fernwhisper.md",
+                "file": "Umora/Factions/Kainai Empire/Geopolitical Structure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -210,7 +210,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fariel Fernwhisper"
+              "title": "Geopolitical Structure"
             }
           }
         ],
@@ -361,18 +361,26 @@
   },
   "active": "4ba2c462604065d4",
   "lastOpenFiles": [
+    "Umora/Factions/Kainai Empire/Places/Wyandotte/Wyandotte.md",
+    "Umora/Factions/Kainai Empire/Places/Tsu'tsina/Cities/Port Talon/Geography.md",
+    "Umora/Factions/Kainai Empire/Places/Tsu'tsina/Cities/Port Talon/Untitled.md",
+    "Umora/Factions/Kainai Empire/Places/Tsu'tsina/Cities/Port Talon/Port Talon.md",
+    "Umora/Factions/Kainai Empire/Places/Tsu'tsina/Cities/Port Talon/Shops",
+    "Umora/Factions/Kainai Empire/Places/Tsu'tsina/Cities/Chinook/Geography.md",
+    "Umora/Factions/Kainai Empire/Places/Sarcee/Sarcee.md",
+    "Umora/Factions/Kainai Empire/Places/Corrino Desert/The Citadel/Traveling Door.md",
+    "Umora/Factions/Dominion of Metis/Places/The Dark mountains.md",
+    "Umora/Factions/Dominion of Metis/Geopolitical Structure.md",
+    "Characters/PCs/Fariel Fernwhisper.md",
     "Characters/PCs/Alistair Blackwood.md",
     "Characters/PCs/Bryn Meliamne.md",
     "Characters/PCs/Domino_dm.md",
     "Characters/PCs/Domino.md",
     "Pantheon/Pantheon.md",
-    "Umora/Factions/Kainai Empire/Places/Corrino Desert/The Citadel/Traveling Door.md",
-    "Umora/Factions/Dominion of Metis/Geopolitical Structure.md",
     "Sessions/Session .5.md",
     "Untitled.md",
     "Umora/Factions/Kainai Empire/Geopolitical Structure.md",
     "Sessions",
-    "Characters/PCs/Fariel Fernwhisper.md",
     "Characters/NPCs/Splintered Waters/Darron Arkwright (Bosson).md",
     "Characters/NPCs/Splintered Waters/Lilian Crinklefoot (Quartermaster).md",
     "Characters/NPCs/Splintered Waters/Ramona Saltmarsh (Captain).md",
@@ -381,13 +389,6 @@
     "Characters/NPCs/Splintered Waters/Allonzo Beni (Gunner).md",
     "Characters/PCs/Yesrie Elderstar.md",
     "Characters/NPCs/Splintered Waters/Splintered Waters.md",
-    "Characters/PCs/Winona Willow.md",
-    "Characters/PCs/Orin Spoonspire.md",
-    "Pantheon/Minor Spirits/Yoenghon Jjigae.md",
-    "Pantheon/Minor Spirits/Mel Melis.md",
-    "Pantheon/Minor Spirits/Ursalon.md",
-    "Umora/Factions/Protectorate of Iska/Protectorate of Iska.md",
-    "Umora/Factions/Factions.md",
     "z_assets/Screenshot 2025-01-08 at 1.55.18 PM.png",
     "Pirate Ship Notes/Untitled",
     "Characters/PCs",
@@ -399,7 +400,6 @@
     "Umora/Factions/Kainai Empire/Places/Corrino Desert",
     "Umora/Factions/Dominion of Metis/Places",
     "Umora/Factions/Kainai Empire/Places/Sarcee/Untitled",
-    "Umora/Factions/Kainai Empire/Places/Sarcee",
-    "Umora/Factions/Kainai Empire/Places"
+    "Umora/Factions/Kainai Empire/Places/Sarcee"
   ]
 }

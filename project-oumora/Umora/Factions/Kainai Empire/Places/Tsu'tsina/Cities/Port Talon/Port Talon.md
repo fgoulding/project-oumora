@@ -5,10 +5,10 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Finnegans Fine Goods and Antiquities]]
 - [[Geography]]
 - **Restaurants**
 	- [[The Laughing Dragon]]
-- [[Untitled]]
+- **Shops**
+	- [[Finnegans Fine Goods and Antiquities]]
 
 %% End Waypoint %%
